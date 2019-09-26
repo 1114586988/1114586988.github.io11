@@ -893,7 +893,15 @@ webpackJsonp([1], {
 							href: "https://github.com/GitHub-Laziji/vblog",
 							target: "_blank"
 						}
-					},  [i("el-card", {
+					}, [t._v("")])], 2), t._v(" "), i("div", {
+						staticStyle: {
+							position: "relative",
+							"z-index": "2",
+							margin: "auto",
+							"margin-top": "-30px",
+							width: "64rem"
+						}
+					}, [i("el-card", {
 						attrs: {
 							shadow: "never",
 							"body-style": {
